@@ -8,8 +8,9 @@ namespace StringReverse
 {
     internal class Program
     {
-        public static void Main()
+        public static void Main() 
         {
+            //hellojtfcf  
             Console.WriteLine("Enter a string to reverse:");
             string input = Console.ReadLine();
 
